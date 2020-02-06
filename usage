@@ -1,0 +1,21 @@
+USAGE:
+		./mathstick size_map nb_max
+DESCRIPTION:
+		map_size:	number of line
+		nb_max:		maximum number of matches that can be removed
+OUTPUT:
+		write how many victory you need for win
+		after pick enter the level of ai:
+This game have 4 level of difficult:
+level 1 : random ai
+level 2 : easy
+level 3 : normal
+level 4 : hard
+
+For each turn:
+		first write which line you want to reduce
+		second how many matches you want reduce
+OTHER:
+You can write 'help', AI will give you what she would have played
+You can write 'cancel' for cancel your last turn
+you can't use help and cancel in one turn
